@@ -1,0 +1,15 @@
+====================================
+     ResourceWatch Performance Report
+====================================
+
+Total Samples: 14
+
+Average CPU Usage: 3.84%
+Average RAM Usage: 48.01%
+Average Disk Usage: 19.15%
+
+Peak CPU Usage: 11.39%
+Peak RAM Usage: 48.24%
+Peak Disk Usage: 19.15%
+
+Bottleneck Summary:
